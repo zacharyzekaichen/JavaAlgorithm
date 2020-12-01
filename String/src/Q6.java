@@ -1,13 +1,11 @@
-package q6;
-
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * @author chenzk
- * @create 2020-11-30 19:10
+ * @create 2020-12-01 9:57
  */
-public class Solution_v1 {
+public class Q6 {
     public static void main(String[] args) {
         System.out.println(convert("LEETCODEISHIRING",1));
     }
